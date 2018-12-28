@@ -5,7 +5,7 @@ LetsDoCoinz is always on the lookout for good people to join our family. If youâ
 
 ### Vice President (3-7%)
 
-Hiring Skills
+Manage ability , Analytics ability , Risk management, Hiring Skills
 
 ### Product Manager (3-6%)
 
@@ -25,9 +25,11 @@ MYSQL,PHP,JQUERY,HTML5,CSS3,Bootstrap,Ubuntu,
 
 ### Listing Manager (1-4%)
 
+Search for best currency admins and explain about our listing policy
+
 ### Support Manager (1-3%)
 
-active member in support chanels help clients 
+Active member in support chanels help clients 
 
 ---
 

@@ -17,19 +17,23 @@ Creative ways of marketing in cryptocurrency and finance area
 
 ### Social media Manager (1-5%)
 
-Posting and commenting : Twitter Steemit BitCoinTalk Medium Reddit FaceBook
+Posting and commenting : Twitter Steemit BitCoinTalk Medium Reddit FaceBook 
 
 ### Web Developer (3-10%)
 
-MYSQL,PHP,JQUERY,HTML5,CSS3,Bootstrap,Ubuntu,
+MYSQL, PHP, JQUERY, HTML5, CSS3, Bootstrap, Ubuntu, Git
 
 ### Listing Manager (1-4%)
 
 Search for best currency admins and explain about our listing policy
 
+### Affiliate Manager (1-3%)
+
+Looking for affiliates posting and commenting in affiliate forms
+
 ### Support Manager (1-3%)
 
-Active member in support chanels help clients 
+Active member in support chanels help clients telegram chats 
 
 ---
 

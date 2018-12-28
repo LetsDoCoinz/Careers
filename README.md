@@ -39,7 +39,7 @@ Active member in support chanels help clients telegram chats
 
 We share 1-10% of profit with each employee mothly
 
-Community low profitable cryptocurrency exchange project in first steps of life
+Long term community low profitable cryptocurrency exchanges network project in first steps of life
 
 Please send cv to office@letsdocoinz.com
 

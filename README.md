@@ -5,17 +5,31 @@ LetsDoCoinz is always on the lookout for good people to join our family. If youâ
 
 ### Vice President (3-7%)
 
+Hiring Skills
+
 ### Product Manager (3-6%)
+
+Cryptocurrency and finance vision 
 
 ### Marketing Manager (3-6%)
 
-### Social media Manager ( Twitter Steemit BitCoinTalk Medium Reddit FaceBook ) (1-5%)
+Creative ways of marketing in cryptocurrency and finance area
+
+### Social media Manager (1-5%)
+
+Posting and commenting : Twitter Steemit BitCoinTalk Medium Reddit FaceBook
 
 ### Web Developer (3-10%)
+
+MYSQL,PHP,JQUERY,HTML5,CSS3,Bootstrap,Ubuntu,
 
 ### Listing Manager (1-4%)
 
 ### Support Manager (1-3%)
+
+active member in support chanels help clients 
+
+---
 
 We share 1-10% of profit with each employee mothly
 

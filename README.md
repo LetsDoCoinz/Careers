@@ -3,9 +3,13 @@ LetsDoCoinz is always on the lookout for good people to join our family. If youâ
 
 ## Free Posotions
 
-### Vice President (3-7%)
+### Vice President (4-8%)
 
 Manage ability , Analytics ability , Risk management, Hiring Skills
+
+### Web Developer (3-7%)
+
+MYSQL, PHP, JQUERY, HTML5, CSS3, Bootstrap, Ubuntu, Git, wallet integration skills
 
 ### Product Manager (3-6%)
 
@@ -18,10 +22,6 @@ Creative ways of marketing in cryptocurrency and finance area
 ### Social media Manager (1-5%)
 
 Posting and commenting : Twitter Steemit BitCoinTalk Medium Reddit FaceBook 
-
-### Web Developer (3-10%)
-
-MYSQL, PHP, JQUERY, HTML5, CSS3, Bootstrap, Ubuntu, Git
 
 ### Listing Manager (1-4%)
 
